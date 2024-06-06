@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_05 Contact</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c4f2eadd-d30f-40ce-ad3b-4e2fe2c65ff7</testCaseGuid>
+</TestCaseEntity>
